@@ -1,0 +1,20 @@
+.page-header {
+  color: green;
+  text-align: center;
+}
+
+.vk-auth {
+  position: absolute;
+  top: 10px;
+  right: 50px;
+}
+
+.message_container {
+  margin-top: 120px;
+  color: green;
+  text-align: center;
+}
+
+.message_container h4{
+  font-size: 32px;
+}
