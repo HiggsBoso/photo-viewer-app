@@ -24,8 +24,7 @@ class Main extends React.Component {
     }
   }
   render() {
-    const redirect_uri = 'http://infinite-sea-85827.herokuapp.com/';
-    // const redirect_uri = 'http://localhost:8000/';
+    const redirect_uri = 'http://localhost:8000/';
     return (
       <div className="main_container">
         <PageHeader title={'Photo Viewer App'} />
